@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+
+	<connection>
+		<display>iRO Server</display>
+		<desc>None</desc>
+		<address>128.241.92.133</address>
+		<port>6800</port>
+		<version>18</version>
+		<langtype>1</langtype>
+		<registrationweb>http://enweb.gravity.co.kr/e_regist.htm</registrationweb>
+		<aid>
+			<admin>100903</admin><admin>100909</admin><admin>100912</admin><admin>100913</admin><admin>100915</admin>
+			<admin>100916</admin><admin>100918</admin><admin>100920</admin><admin>100921</admin><admin>100922</admin>
+			<admin>100924</admin><admin>100926</admin><admin>100927</admin><admin>100929</admin><admin>100931</admin>
+			<admin>100934</admin><admin>100935</admin><admin>100937</admin><admin>100940</admin><admin>100943</admin>
+			<admin>100944</admin><admin>100945</admin><admin>100946</admin><admin>100948</admin><admin>100949</admin>
+			<admin>100950</admin><admin>100953</admin><admin>100954</admin><admin>100956</admin><admin>100958</admin>
+			<admin>100959</admin><admin>100960</admin><admin>100961</admin><admin>100963</admin><admin>100964</admin>
+			<admin>100966</admin><admin>100969</admin><admin>100970</admin><admin>100972</admin><admin>100973</admin>
+			<admin>100977</admin><admin>100979</admin>
+
+		</aid>
+		<yellow>
+			<admin>100903</admin><admin>100909</admin><admin>100912</admin><admin>100913</admin><admin>100915</admin>
+			<admin>100916</admin><admin>100918</admin><admin>100920</admin><admin>100921</admin><admin>100922</admin>
+			<admin>100924</admin><admin>100926</admin><admin>100927</admin><admin>100929</admin><admin>100931</admin>
+			<admin>100934</admin><admin>100935</admin><admin>100937</admin><admin>100940</admin><admin>100943</admin>
+			<admin>100944</admin><admin>100945</admin><admin>100946</admin><admin>100948</admin><admin>100949</admin>
+			<admin>100950</admin><admin>100953</admin><admin>100954</admin><admin>100956</admin><admin>100958</admin>
+			<admin>100959</admin><admin>100960</admin><admin>100961</admin><admin>100963</admin><admin>100964</admin>
+			<admin>100966</admin><admin>100969</admin><admin>100970</admin><admin>100972</admin><admin>100973</admin>
+			<admin>100977</admin><admin>100979</admin>
+		</yellow>
+		<agencyAddress>128.241.92.133</agencyAddress>
+		<agencyPort>6950</agencyPort>
+	</connection>
+
+</clientinfo>
